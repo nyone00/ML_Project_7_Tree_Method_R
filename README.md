@@ -2,3 +2,4 @@
 
 # Goal
 Exploring the use of tree methods to classify schools as Private or Public based of their features. 
+ISLR library is used. 
